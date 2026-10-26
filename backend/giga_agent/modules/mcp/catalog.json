@@ -133,6 +133,16 @@
       "categories": ["ai", "models"],
       "url": "https://mcp.replicate.com/mcp",
       "auth_type": "oauth2"
+    },
+    {
+      "id": "brewpage",
+      "name": "BrewPage",
+      "description": "MCP-сервер BrewPage: публикация HTML, Markdown, статических сайтов, файлов, JSON и KV. Бесплатно, без регистрации и API-ключа; публикации имеют срок хранения.",
+      "icon": "https://brewpage.app/icon-192.png",
+      "homepage": "https://brewpage.app",
+      "categories": ["dev", "web"],
+      "url": "https://brewpage.app/mcp",
+      "auth_type": "none"
     }
   ]
 }
